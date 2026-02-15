@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🎮 братуха, Я- Бог311_ 🎮
+#  братуха, Я- Бог311_ 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Digital+Architect+%7C+Code+Alchemist;Rewriting+Reality+Through+Algorithms;%22For+A+Better+Future%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=gray&center=true&vCenter=true&width=940&lines=Digital+Architect+%7C+Code+Alchemist;Rewriting+Reality+Through+Algorithms;%22For+A+Better+Future%22" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=debuggerdragon311&label=Profile%20Views&color=00ff41&style=for-the-badge)](https://github.com/debuggerdragon311)
-[![GitHub Followers](https://img.shields.io/github/followers/debuggerdragon311?label=Followers&style=for-the-badge&color=00ff41&labelColor=1a1a1a)](https://github.com/debuggerdragon311)
-[![GitHub Stars](https://img.shields.io/github/stars/debuggerdragon311?label=Stars&style=for-the-badge&color=00ff41&labelColor=1a1a1a)](https://github.com/debuggerdragon311)
+[![Profile Views](https://komarev.com/ghpvc/?username=debuggerdragon311&label=Profile%20Views&color=orange&style=for-the-badge)](https://github.com/debuggerdragon311)
+[![GitHub Followers](https://img.shields.io/github/followers/debuggerdragon311?label=Followers&style=for-the-badge&color=orange&labelColor=gray)](https://github.com/debuggerdragon311)
+[![GitHub Stars](https://img.shields.io/github/stars/debuggerdragon311?label=Stars&style=for-the-badge&color=orange&labelColor=gray)](https://github.com/debuggerdragon311)
 
 </div>
 
@@ -18,25 +18,43 @@
 
 ### 🚀 About Me
 
-```python
-class Бог311:
-    def __init__(self):
-        self.name = "Debugger Dragon"
-        self.role = "Digital Architect & Algorithm Alchemist"
-        self.lab = "KAL LAB(311)"
-        self.motto = "For A Better Future"
-        self.current_focus = [
-            "AI Agents & A2A Protocol",
-            "Big Data Analytics with Python",
-            "Neural Networks & Deep Learning",
-            "Blockchain & Web3 Technologies"
+```rust
+struct SystemsEngineer {
+    name: &'static str,
+    role: EngineerType,
+    mindset: Philosophy,
+}
+
+enum EngineerType {
+    CompilerArchitect,
+    EngineBuilder,
+    SystemsProgrammer,
+}
+
+impl SystemsEngineer {
+    fn current_focus(&self) -> Vec<&str> {
+        vec![
+            "🦀 Rust compiler internals",
+            "⚡ Zig self-hosting compilers",
+            "🎮 Voxel game engine (Bevy)",
+            "🧮 Linear algebra (MIT OCW)",
+            "💾 OS kernel architecture",
+            "🔧 Toolchain development"
         ]
+    }
     
-    def collaborate_on(self):
-        return ["ALO Project", "Leadpool", "Open Source AI"]
-    
-    def ask_me_about(self):
-        return ["C/C++", "Web Dev", "Neural Networks", "Game Dev"]
+    fn philosophy(&self) -> &str {
+        "I don't just use tools —
+         I understand how they're built.
+         
+         I don't skip layers —
+         I learn: hardware → assembly
+                 → language → system"
+    }
+}
+
+// Level 85 Systems Engineer
+// Building from the metal up 🌱
 ```
 
 <br clear="right"/>
@@ -60,109 +78,140 @@ class Бог311:
 
 ---
 
-### 🎯 Current Missions
+### 🛠️ Tech Arsenal
+<details>
+<summary align="center"><b>🌱 Primary Systems Languages</b></summary>
+<br>
+<div align="center">
+<p>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Assembly-654321?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+</p>
+Advanced Expertise:
 
-<table>
+🦀 Rust: Nightly features • Compiler builds (stage 0-2) • Unsafe optimization • Embedded systems
+⚡ Zig: Self-hosting compilers • Cross-compilation • Comptime magic • Manual memory management
+🔧 C: Minimal abstraction • Kernel-level code • Direct hardware interaction
+💾 Assembly: x86-64 • ARM • Hardware-level optimization
+</div>
+</details>
+<details>
+<summary align="center"><b>🎮 Game Engine & Graphics</b></summary>
+<br>
+<div align="center">
+<p>
+<img src="https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white" />
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+Building:
+
+🎮 Minecraft-like voxel engine with Rust + Bevy ECS
+📐 Graphics mathematics: transformations, projections, rendering pipelines
+🧮 Linear algebra fundamentals (MIT OpenCourseWare)
+
+</div>
+</details>
+<details>
+<summary align="center"><b>🔧 Compiler & Toolchain Engineering</b></summary>
+<br>
+<div align="center">
+<p>
+<img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white" />
+<img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=white" />
+</p>
+Understanding:
+
+🦀 Rust compiler internals (rustc, stage builds)
+⚡ Zig self-hosting and bootstrapping process
+🔄 Compiler toolchain architecture
+🧩 Parser/lexer/AST construction
+
+</div>
+</details>
+<details>
+<summary align="center"><b>🐧 Systems & OS Development</b></summary>
+<br>
+<div align="center">
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+</p>
+Exploring:
+
+💾 OS kernel structure and design
+🔐 Memory management and safety
+⚡ System calls and low-level APIs
+🖥️ Hardware abstraction layers
+
+</div>
+</details>
+<details>
+<summary align="center"><b>💻 Supporting Stack</b></summary>
+<br>
+<div align="center">
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+</div>
+</details>
+<details>
+<summary align="center"><b>🛠️ Tools & Workflow</b></summary>
+<br>
+<div align="center">
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+</p>
+</div>
+</details>
+<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<!-- Current Focus Section -->
+<h2 align="center">🎯 Current Missions</h2>
+<table align="center">
 <tr>
-<td width="50%">
-
-#### 🔬 Research & Development
-- 🤖 Building AI Agent Systems
-- 🌐 Exploring A2A Protocol
-- 📊 Big Data Analytics Pipeline
-- 🧠 Neural Network Architectures
-
+<td width="33%" align="center">
+<tb> ==Deep Dive==<br>
+Rust Compiler<br>
+Building from source<br>
+Understanding stages<br>
+Exploring internals<br>
+Zig Exploration<br>
+Self-hosting process<br>
+Bootstrapping chain<br>
+Comptime features
 </td>
-<td width="50%">
-
-#### 🤝 Collaboration Projects
-- 💡 ALO - AI Learning Optimization
-- 🎯 Leadpool - Lead Management
-- 🌟 Open Source Contributions
-- 🔧 KAL LAB(311) Innovations
-
+<td width="33%" align="center">
+==Building==<br>
+Voxel Engine<br>
+Minecraft-like game<br>
+Bevy ECS architecture<br>
+Chunk rendering<br>
+Math Foundation<br>
+Linear algebra<br>
+Matrix transformations<br>
+Graphics pipelines
+</td>
+<td width="33%" align="center">
+ ==Learning==<br>
+OS Internals<br>
+Kernel structure<br>
+Memory management<br>
+System calls<br>
+     
 </td>
 </tr>
 </table>
-
----
-
-### 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>☁️ DevOps & Cloud</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</details>
-
-<details>
-<summary><b>🎮 Game Development & Design</b></summary>
-<br>
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-
-</details>
 
 ---
 
@@ -201,13 +250,14 @@ class Бог311:
 ### 🎯 Skill Progress Bars
 
 ```text
-AI/ML        ████████████████████░   95%
-Python       ███████████████████░░   90%
-C/C++        ██████████████████░░░   85%
-JavaScript   █████████████████░░░░   80%
-React        ████████████████░░░░░   75%
-DevOps       ███████████████░░░░░░   70%
-Game Dev     ██████████████░░░░░░░   65%
+🦀 Rust (Compiler Internals)     ████████████████████░░░░░  90%
+⚡ Zig (Systems Programming)     ██████████████████░░░░░░░  85%
+🔧 C (Low-level Control)         ██████████████████░░░░░░░  85%
+🎮 Game Engine Architecture      ███████████████░░░░░░░░░░  75%
+🧮 Linear Algebra (Graphics)     ███████████████░░░░░░░░░░  75%
+🔨 Compiler Toolchains           ██████████████░░░░░░░░░░░  70%
+💾 OS/Kernel Understanding       █████████████░░░░░░░░░░░░  65%
+📐 Assembly/Hardware Level       ████████████░░░░░░░░░░░░░  60%
 ```
 
 ---
