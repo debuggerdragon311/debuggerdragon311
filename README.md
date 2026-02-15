@@ -166,7 +166,7 @@ class Бог311:
 
 ---
 
-### 🏆 GitHub Trophies
+<!--### 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=debuggerdragon311&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
@@ -180,16 +180,19 @@ class Бог311:
   <img src="https://raw.githubusercontent.com/debuggerdragon311/debuggerdragon311/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
+--- -->
 
 ### 📈 Coding Activity
 
 <div align="center">
   
 <!--START_SECTION:waka-->
+<div align="center">
+  <img src="https://ghchart.rshah.org/00FF41/debuggerdragon311" alt="Contribution Calendar" width="100%" />
+</div>
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=debuggerdragon311&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="WakaTime Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=debuggerdragon311&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="WakaTime Stats" /> -->
 
 </div>
 
@@ -222,6 +225,16 @@ Game Dev     ██████████████░░░░░░░   6
 ### 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debuggerdragon311&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuggerdragon311&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" height="170"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debuggerdragon311&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debuggerdragon311&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph" />
+</div>
 <!--END_SECTION:activity-->
 
 ---
