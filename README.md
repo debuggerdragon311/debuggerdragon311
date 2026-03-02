@@ -249,7 +249,7 @@ Exploring:
 </div>
 <!--END_SECTION:activity-->
 
----
+<!---
 
 ### 💬 Let's Connect
 
@@ -262,7 +262,7 @@ Exploring:
 
 </div>
 
----
+--->
 
 <div align="center">
   
