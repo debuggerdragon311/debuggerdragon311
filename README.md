@@ -59,7 +59,7 @@ impl SystemsEngineer {
 
 <br clear="right"/>
 
----
+<!---
 
 ### 📊 GitHub Statistics
 
@@ -76,7 +76,7 @@ impl SystemsEngineer {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=debuggerdragon311&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
----
+--->
 
 ### 🛠️ Tech Arsenal
 <details>
@@ -176,44 +176,6 @@ Exploring:
 <div align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-<!-- Current Focus Section -->
-<h2 align="center">🎯 Current Missions</h2>
-<table align="center">
-<tr>
-<td width="33%" align="center">
-<tb> ==Deep Dive==<br>
-Rust Compiler<br>
-Building from source<br>
-Understanding stages<br>
-Exploring internals<br>
-Zig Exploration<br>
-Self-hosting process<br>
-Bootstrapping chain<br>
-Comptime features
-</td>
-<td width="33%" align="center">
-==Building==<br>
-Voxel Engine<br>
-Minecraft-like game<br>
-Bevy ECS architecture<br>
-Chunk rendering<br>
-Math Foundation<br>
-Linear algebra<br>
-Matrix transformations<br>
-Graphics pipelines
-</td>
-<td width="33%" align="center">
- ==Learning==<br>
-OS Internals<br>
-Kernel structure<br>
-Memory management<br>
-System calls<br>
-     
-</td>
-</tr>
-</table>
-
----
 
 <!--### 🏆 GitHub Trophies
 
