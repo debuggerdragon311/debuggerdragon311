@@ -20,20 +20,3 @@
 ---
 
 > *Не просто использую инструменты — понимаю, как они сделаны.*
-
-
-<details>
-<summary>🇬🇧 English</summary>
-<br>
-
-**Systems programmer. Building from scratch — metal to product.**
-
-Currently working on:
-- Voxel engine in `Rust + Bevy`
-- Digging into `rustc` compiler internals — live dissection
-- OS kernel architecture — no surface-level stuff
-- `Linear algebra`, `MIT OCW` — math for graphics
-
-> *I don't just use tools — I understand how they're built.*
-
-</details>
