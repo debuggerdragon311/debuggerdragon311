@@ -237,13 +237,13 @@ Exploring:
 ### 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=debuggerdragon311&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debuggerdragon311&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" height="170"/>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debuggerdragon311&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" alt="GitHub Streak" />
-</div>
+</div> -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=debuggerdragon311&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Contribution Graph" />
 </div>
