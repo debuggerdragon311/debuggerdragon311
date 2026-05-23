@@ -1,6 +1,6 @@
 <div align="center">
 
-# Soumyajit Bala
+# Soumyajit Bala (Бог311_)
 
 **Systems engineer. I build automation infrastructure, AI pipelines, and tools that eliminate manual ops.**
 
