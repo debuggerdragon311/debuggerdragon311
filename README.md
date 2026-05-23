@@ -49,7 +49,8 @@ Local AI-powered company intelligence pipeline. Input a domain → get founder n
 
 - `ra-ce` — Rust Analyzer CE: a free, open-source rust-analyzer LSP client for IntelliJ IDEA Community Edition
 - Compiler internals research — live study of `rustc` internals
-- Voxel engine — Rust + Bevy, built from scratch
+- `cpython` & `pypy3` also part of my study
+- Voxel engine — `Rust` + `Bevy`, built from scratch
 
 ---
 
