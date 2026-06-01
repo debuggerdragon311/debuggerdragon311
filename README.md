@@ -15,7 +15,7 @@
 
 Automation systems that replace manual workflows — scraping pipelines, AI agents, data extraction tools, backend APIs, CLI tools, and anything ops-heavy that a team is doing by hand and shouldn't be.
 
-11 years writing systems software. I don't just use tools — I understand how they're made.
+11+ years of obsession, sleepless nights, failed attempts. I don't just use tools — I understand how they're made.
 
 ---
 
