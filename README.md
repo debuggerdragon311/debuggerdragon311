@@ -3,65 +3,55 @@
 # Soumyajit Bala
 
 **Systems & Tools Engineer**  
-Building low-level tooling, custom runtimes, and automated data pipelines.
+I write CLIs, runtimes and scrapers, mostly in Rust, Zig and Go.
 
-[![Email](https://img.shields.io/badge/Email-soumyajit%40zelkyr.dev-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:soumyajit@zelkyr.dev)
+[![Email](https://img.shields.io/badge/Email-soumyajit%40zelkyr.dev-333?style=flat-square&logo=gmail&logoColor=white)](mailto:soumyajit@zelkyr.dev)
 [![Personal](https://img.shields.io/badge/Email-ayushkantibala2020%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushkantibala2020@gmail.com)
 
 </div>
 
----
 
 ### About
 
-I like understanding how things work under the hood. Most of my work revolves around building developer tools, CLI utilities, scraping/automation infrastructure, and systems software from scratch.
+I read a lot of source code. If I use a tool every day, I usually end up in its repo, and sometimes I rewrite a small version of it to see how it's put together.
 
-When I run into a tool or system I use daily, I usually end up reading its source code or rewriting a minimal version of it to see how the architecture holds up.
-
----
+Most of my work is developer tooling, CLI utilities, scraping/automation infra and systems software.
 
 ### Projects
-#### [fern-core](https://github.com/fern-tui/fern-core)
-A modern Terminal User Interface (TUI) framework written in pure Zig. Built around the Elm Architecture (Model-Update-View) for predictable state management, cross-platform terminal control (Linux/macOS), and raw ANSI rendering.
 
-#### [mgit](https://github.com/debuggerdragon311/mgit)
-A Git-like content-addressable version control system written from scratch in Rust. Built to explore object storage (blobs, trees, commits), index staging, and graph traversal without relying on `libgit2`.
+#### 1) [fern-core](https://github.com/fern-tui/fern-core)
+TUI framework in pure Zig, built on the Elm Architecture (Model-Update-View). Works on Linux and macOS and renders with raw ANSI. [Why Elm-style over something else?]
 
-#### [todod](https://github.com/debuggerdragon311/todod)
-A zero-dependency C daemon that extracts inline code markers (`TODO`, `FIXME`, `HACK`) and serves an interactive, searchable web dashboard on localhost. Built with POSIX sockets and a vanilla frontend.
+#### 2) [mgit](https://github.com/debuggerdragon311/mgit)
+A Git-like version control system in Rust, written without `libgit2`. Covers blobs, trees, commits, index staging and graph traversal. I built it to learn how Git actually stores things. [Which part was harder than expected?]
 
-#### [zcm](https://github.com/fern-tui/infra)
-A zero-dependency CLI cache manager for the Zig compiler (`.zig-cache` and `~/.cache/zig`), written in pure Zig. Helps inspect cache bloat and prune build artifacts safely.
+#### 3) [todo](https://github.com/debuggerdragon311/todo)
+A C daemon with no dependencies. It scans your code for `TODO`, `FIXME` and `HACK`, then serves a searchable dashboard on localhost. POSIX sockets, plain JS frontend.
 
-#### [lead-intel-bot](https://github.com/debuggerdragon311/lead-intel-bot)
-A local, offline company intelligence pipeline. Takes a domain, orchestrates headless browser extraction, and runs local LLM inference to identify company tech stacks and key personnel without third-party API costs.
+#### 4) [zcm](https://github.com/fern-tui/infra)
+Cache manager for the Zig compiler (`.zig-cache` and `~/.cache/zig`), also pure Zig. Shows how big your caches are and prunes old build artifacts. [How big did yours get?]
 
----
 
 ### What I Work With
 
 - **Languages:** Rust, Zig, Go, C, C++, Python
-- **Systems & Tooling:** POSIX, OS runtimes, LSP protocols, CLI tools, memory & cache management
-- **Automation & Backend:** Playwright, headless scrapers, FastAPI, Go HTTP services, local LLM inference (Ollama)
+- **Systems & tooling:** POSIX, OS runtimes, LSP, CLI tools, memory and cache management
+- **Automation & backend:** Playwright, headless scrapers, FastAPI, Go HTTP services, local LLMs (Ollama)
 
----
 
-### Currently Tinkering With
+### Right Now
 
-- Deep-diving into `rustc` and `cpython` compiler/runtime codebases
-- Building a chunked voxel engine using **Rust + Bevy**
-- Free-threaded Python concurrency experiments
+- Reading through `rustc` and `cpython`
+- Implementing `lox` in C.
 
----
 
-### Freelance & Contract Work
+### Freelance
 
-I take on select contract work for engineering teams and startups. Things I typically help with:
+I take a few contract projects for teams and startups:
 
-- **Custom Tooling & CLI Utilities:** High-performance internal tools written in Rust, Go, or Zig.
-- **Automation & Scraping:** Robust data extraction pipelines that handle bot mitigation and headless browser pools.
-- **Backend & Daemon Services:** Fast, minimal microservices, local AI agent setups, and background daemons.
-- **Codebase Modernization:** Profiling slow pipelines, auditing legacy code, or rewriting bottlenecks in Rust/Go.
+- Custom CLI tools and internal utilities (Rust, Go, Zig)
+- Scraping and automation, including sites with bot protection
+- Small backend services, background daemons, local AI agent setups
+- Profiling slow pipelines, auditing legacy code, rewriting bottlenecks
 
-If you have a project or need something built:  
-==> **[soumyajit@zelkyr.dev](mailto:soumyajit@zelkyr.dev)** or **[ayushkantibala2020@gmail.com](mailto:ayushkantibala2020@gmail.com)**
+Email me: **[soumyajit@zelkyr.dev](mailto:soumyajit@zelkyr.dev)** or **[ayushkantibala2020@gmail.com](mailto:ayushkantibala2020@gmail.com)**
