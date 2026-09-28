@@ -27,11 +27,14 @@ A modern Terminal User Interface (TUI) framework written in pure Zig. Built arou
 #### [mgit](https://github.com/debuggerdragon311/mgit)
 A Git-like content-addressable version control system written from scratch in Rust. Built to explore object storage (blobs, trees, commits), index staging, and graph traversal without relying on `libgit2`.
 
-#### [lead-intel-bot](https://github.com/debuggerdragon311/lead-intel-bot)
-A local, offline company intelligence pipeline. Takes a domain, orchestrates headless browser extraction, and runs local LLM inference to identify company tech stacks and key personnel without third-party API costs.
+#### todod `[Internal Tool]`
+A zero-dependency C daemon that extracts inline code markers (`TODO`, `FIXME`, `HACK`) and serves an interactive, searchable web dashboard on localhost. Built with POSIX sockets and a vanilla frontend.
 
 #### [zcm](https://github.com/fern-tui/infra)
 A zero-dependency CLI cache manager for the Zig compiler (`.zig-cache` and `~/.cache/zig`), written in pure Zig. Helps inspect cache bloat and prune build artifacts safely.
+
+#### [lead-intel-bot](https://github.com/debuggerdragon311/lead-intel-bot)
+A local, offline company intelligence pipeline. Takes a domain, orchestrates headless browser extraction, and runs local LLM inference to identify company tech stacks and key personnel without third-party API costs.
 
 ---
 
