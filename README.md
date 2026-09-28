@@ -1,81 +1,64 @@
 <div align="center">
 
-# Soumyajit Bala (Бог311_)
+# Soumyajit Bala
 
-**Systems engineer. I build automation infrastructure, AI pipelines, and tools that eliminate manual ops.**
+**Systems & Tools Engineer**  
+Building low-level tooling, custom runtimes, and automated data pipelines.
 
-[![Email](https://img.shields.io/badge/mail-333?style=flat-square&logo=gmail&logoColor=white)](mailto:soumyajit@zelkyr.dev)
-[![Email](https://img.shields.io/badge/gmail-333?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushkantibala2020@gmail.com)
-<!-- [![Website](https://img.shields.io/badge/zelkyr.dev-000?style=flat-square&logo=firefox&logoColor=white)](https://zelkyr.dev) -->
+[![Email](https://img.shields.io/badge/Email-soumyajit%40zelkyr.dev-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:soumyajit@zelkyr.dev)
+[![Personal](https://img.shields.io/badge/Email-ayushkantibala2020%40gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushkantibala2020@gmail.com)
 
 </div>
 
 ---
 
-### What I build
+### About
 
-Automation systems that replace manual workflows; scraping pipelines, AI agents, data extraction tools, backend APIs, CLI tools, and anything ops-heavy that a team is doing by hand and shouldn't be.
+I like understanding how things work under the hood. Most of my work revolves around building developer tools, CLI utilities, scraping/automation infrastructure, and systems software from scratch.
 
-11+ years of obsession, sleepless nights, failed attempts. I don't just use tools, I understand how they're made.
-
----
-
-### Stack
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Automation** => Playwright, Selenium, scraping pipelines, workflow bots, scheduled agents  
-**AI / LLM** => Ollama, LangChain, RAG pipelines, local inference, OpenAI API integrations  
-**Backend** => REST APIs, Flask, FastAPI, Go HTTP, CLI tooling, system daemons  
-**Systems** => compilers, runtimes, OS internals, zero-dependency architecture, GIL-free Python  
-**Dev tooling** => LSP clients, IDE plugins, IntelliJ platform, code analysis pipelines  
+When I run into a tool or system I use daily, I usually end up reading its source code or rewriting a minimal version of it to see how the architecture holds up.
 
 ---
 
-### Featured project
+### Projects
+#### [fern-core](https://github.com/fern-tui/fern-core)
+A modern Terminal User Interface (TUI) framework written in pure Zig. Built around the Elm Architecture (Model-Update-View) for predictable state management, cross-platform terminal control (Linux/macOS), and raw ANSI rendering.
 
-#### 1) [mgit](https://github.com/debuggerdragon311/mgit):
-a version control system, written from scratch. Started it because I wanted to understand how VCS internals actually work, not because git is broken.
-#### 2) [Lead Intel System](https://github.com/debuggerdragon311/lead-intel-bot):
-Local AI-powered company intelligence pipeline. Input a domain → get founder name, tech stack, and value proposition. Fully offline, sandboxed browser, zero API costs. Built on Python 3.14t free-threaded runtime with explicit GIL-free concurrency.
+#### [mgit](https://github.com/debuggerdragon311/mgit)
+A Git-like content-addressable version control system written from scratch in Rust. Built to explore object storage (blobs, trees, commits), index staging, and graph traversal without relying on `libgit2`.
 
----
+#### [lead-intel-bot](https://github.com/debuggerdragon311/lead-intel-bot)
+A local, offline company intelligence pipeline. Takes a domain, orchestrates headless browser extraction, and runs local LLM inference to identify company tech stacks and key personnel without third-party API costs.
 
-### Currently building
-
-- `mgit` > a version control system, written from scratch.
-Started it because I wanted to understand how VCS internals actually work, not because git is broken.
-- `ra-ce` > a free, open-source rust-analyzer LSP client for IntelliJ IDEA Community Edition
-- Compiler internals research > live study of `rustc` internals
-- `cpython` & `pypy3` also part of my study
-- Voxel engine > `Rust` + `Bevy`, built from scratch
+#### [zcm](https://github.com/fern-tui/infra)
+A zero-dependency CLI cache manager for the Zig compiler (`.zig-cache` and `~/.cache/zig`), written in pure Zig. Helps inspect cache bloat and prune build artifacts safely.
 
 ---
 
-### Open to freelance work
+### What I Work With
 
-I take on automation and systems contracts for startups and ops-heavy teams.
-
-**What I build for clients:**
-- Workflow automation => replace manual ops with bots and pipelines
-- AI/LLM integrations => custom agents, RAG, local inference setups
-- Data pipelines => scraping, extraction, enrichment, reporting
-- Backend systems => APIs, daemons, CLI tools, performance work
-- Codebase audits => legacy code review, Rust/Go rewrites, perf analysis
-
-**→ [soumyajit@zelkyr.dev](mailto:soumyajit@zelkyr.dev)**
-
-**→ [ayushkantibala2020@gmail.com](mailto:ayushkantibala2020@gmail.com)**
+- **Languages:** Rust, Zig, Go, C, C++, Python
+- **Systems & Tooling:** POSIX, OS runtimes, LSP protocols, CLI tools, memory & cache management
+- **Automation & Backend:** Playwright, headless scrapers, FastAPI, Go HTTP services, local LLM inference (Ollama)
 
 ---
 
-<div align="center">
-  <sub>I don't just use tools - I understand how they're made.</sub>
-</div>
+### Currently Tinkering With
+
+- Deep-diving into `rustc` and `cpython` compiler/runtime codebases
+- Building a chunked voxel engine using **Rust + Bevy**
+- Free-threaded Python concurrency experiments
+
+---
+
+### Freelance & Contract Work
+
+I take on select contract work for engineering teams and startups. Things I typically help with:
+
+- **Custom Tooling & CLI Utilities:** High-performance internal tools written in Rust, Go, or Zig.
+- **Automation & Scraping:** Robust data extraction pipelines that handle bot mitigation and headless browser pools.
+- **Backend & Daemon Services:** Fast, minimal microservices, local AI agent setups, and background daemons.
+- **Codebase Modernization:** Profiling slow pipelines, auditing legacy code, or rewriting bottlenecks in Rust/Go.
+
+If you have a project or need something built:  
+==> **[soumyajit@zelkyr.dev](mailto:soumyajit@zelkyr.dev)** or **[ayushkantibala2020@gmail.com](mailto:ayushkantibala2020@gmail.com)**
