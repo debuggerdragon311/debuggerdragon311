@@ -27,7 +27,7 @@ A modern Terminal User Interface (TUI) framework written in pure Zig. Built arou
 #### [mgit](https://github.com/debuggerdragon311/mgit)
 A Git-like content-addressable version control system written from scratch in Rust. Built to explore object storage (blobs, trees, commits), index staging, and graph traversal without relying on `libgit2`.
 
-#### todod `[Internal Tool]`
+#### [todod](https://github.com/debuggerdragon311/todod)
 A zero-dependency C daemon that extracts inline code markers (`TODO`, `FIXME`, `HACK`) and serves an interactive, searchable web dashboard on localhost. Built with POSIX sockets and a vanilla frontend.
 
 #### [zcm](https://github.com/fern-tui/infra)
